@@ -1,0 +1,6 @@
+NaN(not a null)
+none(for obj type)
+
+isnull()
+true-NaN is missing
+False-value is present
